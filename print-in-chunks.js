@@ -1,6 +1,6 @@
 var https = require("https");
 
-function getAndPrintHTMLChunks () {
+function getAndPrintHTMLChunks() {
 
   var requestOptions = {
     host: "sytantris.github.io",
